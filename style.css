@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(rgba(255, 238, 0, 0.3),rgba(212, 67, 22, 0.7));
+    height: 940px;
+    font-family: helvetica;
+}
+
+h1 {
+    color: rgb(11, 8, 58);
+    text-align: center;
+    font-size: 52px;
+
+}
+
+ul {
+    width: 50%;
+    margin: 0 auto;
+}
+
+li {
+    font-size: 32px;
+    margin: 0.5em 0;
+}
